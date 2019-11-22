@@ -4,8 +4,8 @@
     "name": "R2-Ахуйн хэрэглэгч",
     "number": 1,
     "day": 9,
-    "showBill": 12,
-    "paymentDue": 328462,
+    "showBill": 162234,
+    "paymentDue": 12,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -13,8 +13,8 @@
     "name": "R2-Ахуйн хэрэглэгч",
     "number": 2,
     "day": 9,
-    "showBill": 12,
-    "paymentDue": 328487662,
+    "showBill": 113425,
+    "paymentDue": 12,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -22,8 +22,8 @@
     "name": "R2-Аж ахуй нэгж",
     "number": 4,
     "day": 9,
-    "showBill": 16,
-    "paymentDue": 328462,
+    "showBill": 168050,
+    "paymentDue": 16,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -31,8 +31,8 @@
     "name": "R3-Ахуйн хэрэглэгч",
     "number": 9,
     "day": 9,
-    "showBill": 16,
-    "paymentDue": 23328462,
+    "showBill": 235116,
+    "paymentDue": 16,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -40,8 +40,8 @@
     "name": "R4-Ахуйн хэрэглэгч",
     "number": 3,
     "day": 12,
-    "showBill": 16,
-    "paymentDue": 328462,
+    "showBill": 161512,
+    "paymentDue": 16,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -49,8 +49,8 @@
     "name": "R3-Ахуйн хэрэглэгч",
     "number": 8,
     "day": 2,
-    "showBill": 7,
-    "paymentDue": 328462,
+    "showBill": 412551,
+    "paymentDue": 7,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -58,8 +58,8 @@
     "name": "R2-Ахуйн хэрэглэгч",
     "number": 7,
     "day": 6,
-    "showBill": 12,
-    "paymentDue": 328462,
+    "showBill": 57800,
+    "paymentDue": 8,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -67,8 +67,8 @@
     "name": "R4-Ахуйн хэрэглэгч",
     "number": 12,
     "day": 9,
-    "showBill": 15,
-    "paymentDue": 328462,
+    "showBill": 541200,
+    "paymentDue": 15,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -76,8 +76,8 @@
     "name": "R4-Аж ахуй нэгж",
     "number": 14,
     "day": 12,
-    "showBill": 18,
-    "paymentDue": 328462,
+    "showBill": 89084,
+    "paymentDue": 18,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -85,8 +85,8 @@
     "name": "R5-Аж ахуй нэгж",
     "number": 13,
     "day": 15,
-    "showBill": 22,
-    "paymentDue": 328462,
+    "showBill": 220000,
+    "paymentDue": 22,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -94,8 +94,8 @@
     "name": "R2-Ахуйн хэрэглэгч",
     "number": 16,
     "day": 23,
-    "showBill": 31,
-    "paymentDue": 328462,
+    "showBill": 328462,
+    "paymentDue": 31,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -103,8 +103,8 @@
     "name": "R4-Аж ахуй нэгж",
     "number": 19,
     "day": 5,
-    "showBill": 15,
-    "paymentDue": 328462,
+    "showBill": 328462,
+    "paymentDue": 15,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -112,8 +112,8 @@
     "name": "R5-Ахуйн хэрэглэгч",
     "number": 17,
     "day": 29,
-    "showBill": 4,
-    "paymentDue": 328462,
+    "showBill": 32151,
+    "paymentDue": 4,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -121,8 +121,8 @@
     "name": "R5-Ахуйн хэрэглэгч",
     "number": 21,
     "day": 31,
-    "showBill": 5,
-    "paymentDue": 3265462,
+    "showBill": 3265462,
+    "paymentDue": 5,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -130,8 +130,8 @@
     "name": "R5-Аж ахуй нэгж",
     "number": 22,
     "day": 3,
-    "showBill": 16,
-    "paymentDue": 328462,
+    "showBill": 328462,
+    "paymentDue": 16,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -139,8 +139,8 @@
     "name": "R5-Ахуйн хэрэглэгч",
     "number": 26,
     "day": 1,
-    "showBill": 15,
-    "paymentDue": 328462,
+    "showBill": 328462,
+    "paymentDue": 15,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -148,8 +148,8 @@
     "name": "R3-Ахуйн хэрэглэгч",
     "number": 28,
     "day": 1,
-    "showBill": 15,
-    "paymentDue": 328462,
+    "showBill": 151242,
+    "paymentDue": 15,
     "Category": "Ахуйн хэрэглэгч"
   },
   {
@@ -157,8 +157,8 @@
     "name": "R2-Аж ахуй нэгж",
     "number": 29,
     "day": 7,
-    "showBill": 15,
-    "paymentDue": 328462,
+    "showBill": 61000,
+    "paymentDue": 15,
     "Category": "Ахуйн хэрэглэгч"
   }
 ]
