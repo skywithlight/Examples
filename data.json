@@ -4,8 +4,8 @@
       "market":"USD-BTC",
       "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
       "currency":"BITCOIN",
-      "volume":3923126423.76,
-      "chance":-2.1,
+      "volume":3923346423.76,
+      "chance":-8.1,
       "lastPrice":3923.19990000,
       "24hrHigh":3923.19990000,
       "24hrLow":3923.19990000,
@@ -22,8 +22,8 @@
       "lastPrice":3923.19990000,
       "24hrHigh":3923.19990000,
       "24hrLow":3923.19990000,
-      "spread":0.6,
-      "added":"2018-05-31"
+      "spread":0.3,
+      "added":"2018-04-31"
    },
    {
       "id":1,
@@ -36,7 +36,7 @@
       "24hrHigh":3923.19990000,
       "24hrLow":3923.19990000,
       "spread":0.6,
-      "added":"2018-05-31"
+      "added":"2018-01-31"
    },
    {
       "id":1,
@@ -49,20 +49,20 @@
       "24hrHigh":3923.19990000,
       "24hrLow":3923.19990000,
       "spread":0.6,
-      "added":"2018-05-31"
+      "added":"2018-03-31"
    },
    {
       "id":1,
       "market":"USD-BTC",
       "logo":"https://cryptologos.cc/logos/ravencoin-rvn-logo.png?v=003",
       "currency":"BITCOIN",
-      "volume":3923126423.76,
-      "chance":-2.1,
+      "volume":3921126423.76,
+      "chance":-3.3,
       "lastPrice":3923.19990000,
       "24hrHigh":3923.19990000,
       "24hrLow":3923.19990000,
       "spread":0.6,
-      "added":"2018-05-31"
+      "added":"2018-05-11"
    },
    {
       "id":1,
@@ -83,7 +83,7 @@
       "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
       "currency":"BITCOIN",
       "volume":3923126423.76,
-      "chance":-2.1,
+      "chance":-1.9,
       "lastPrice":3923.19990000,
       "24hrHigh":3923.19990000,
       "24hrLow":3923.19990000,
